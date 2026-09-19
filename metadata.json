@@ -1,0 +1,6 @@
+{
+  "name": "Adv. Sumit Chaudhary - Official Portal",
+  "description": "Official portal of Adv. Sumit Chaudhary (S/O Mr. Mahipal Singh) – Advocate, Political Leader, Businessman & Social Worker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
